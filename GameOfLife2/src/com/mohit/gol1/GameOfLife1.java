@@ -1,4 +1,4 @@
-package com.mohit.gol2;
+package com.mohit.gol1;
 
 import java.util.ArrayList;
 import java.util.List;
